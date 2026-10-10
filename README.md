@@ -1,3 +1,5 @@
+> **Yasser Moufrad's fork.** See [CONTRIBUTIONS.md](CONTRIBUTIONS.md) for the parts I personally built, how they were tested, and their known limits.
+
 This repo contains code for software challenge 2 specified in [this doc](challenge_spec.pdf)
 
 Our Logs can be found [here](https://docs.google.com/document/d/1WLQU7h1sxwaj7nFyXOctIzjUhHK8tUPtBf6354ASlB4/edit?usp=sharing)
